@@ -1543,4 +1543,4 @@ if __name__ == "__main__":
 
     EventBridge cron: cron(* * * * ? *)   ← every minute (UTC)
     """
-    run_scheduled_pipeline()
+    run_scheduled_pipeline
